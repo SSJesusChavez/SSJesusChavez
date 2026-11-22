@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile/header.svg" alt="Jesús Alberto Chávez — Análisis de datos con Python" width="100%"/>
+  <img src="./profile/header.svg" alt="Jesús Alberto Chávez — Análisis de datos para el sector energético" width="100%"/>
 </p>
 
 <p align="center">
