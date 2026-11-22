@@ -75,6 +75,10 @@ Me gusta **crear contenido de tecnología**: armado de PCs, unboxings y pruebas 
   <br/>
   <sub>▶️ <b>ARMÉ La Mejor PC Gamer CALIDAD PRECIO — 2026</b> · hacé clic en la imagen para verlo</sub>
   <br/><br/>
+  <a href="https://www.youtube.com/watch?v=on1D_Ve3hyA"><img width="80%" src="./profile/video-impresora-3d.jpg" alt="Ver en YouTube: ¿Es esta la impresora 3D PERFECTA? Unboxing + primeras pruebas"/></a>
+  <br/>
+  <sub>▶️ <b>¿Es esta la impresora 3D PERFECTA? — Unboxing + primeras pruebas</b> · hacé clic en la imagen para verlo</sub>
+  <br/><br/>
   <a href="https://www.youtube.com/@ssjesuschavez?sub_confirmation=1"><img src="https://img.shields.io/badge/Suscribite_al_canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suscribite al canal"/></a>
 </p>
 
