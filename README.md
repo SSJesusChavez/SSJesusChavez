@@ -12,7 +12,7 @@
 Soy estudiante de cuarto semestre de la **Tecnicatura Universitaria en Programación** (UTN FRSR, cohorte 2025) y **profesor de Informática**: enseño temas como bases de datos. Me enfoco en el análisis de datos con Python y Pandas, y me interesa aplicarlo a la **industria energética**, en particular a **Vaca Muerta**. También me gusta crear contenido de tecnología.
 
 ```yaml
-estudio:    Tecnicatura Universitaria en Programación — UTN FRSR (cohorte 2025, 4to semestre)
+estudio:    Tec. Univ. en Programación — UTN FRSR · cohorte 2025 · 4to sem.
 docencia:   Profesor de Informática — bases de datos y fundamentos
 datos:      Python · Pandas · limpieza, análisis y visualización
 intereses:  Industria energética (Vaca Muerta) · creación de contenido tech
