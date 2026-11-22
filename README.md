@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jes%C3%BAs-alberto-ch%C3%A1vez-871659365/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=F59E0B" alt="LinkedIn"/></a>
   <a href="https://github.com/SSJesusChavez/portafolio"><img src="https://img.shields.io/badge/Portafolio-161B22?style=for-the-badge&logo=github&logoColor=F59E0B" alt="Portafolio"/></a>
+  <a href="https://www.youtube.com/@ssjesuschavez"><img src="https://img.shields.io/badge/YouTube-161B22?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
 </p>
 
 ## 👨‍🏫 Sobre mí
@@ -65,6 +66,18 @@ Proyectos del grupo **Qwerty123** en la organización **HotCode2025**: a la izqu
 
 <!-- Próximos proyectos: agregar una tarjeta en /profile y una línea en la lista de arriba -->
 
+## 🎬 Hobbies
+
+Me gusta **crear contenido de tecnología**: armado de PCs, unboxings y pruebas de hardware. Lo comparto en mi canal de YouTube **Soy Jesús**.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=uaKFMykY_sI"><img width="80%" src="./profile/video-armado-pc.jpg" alt="Ver en YouTube: ARMÉ La Mejor PC Gamer CALIDAD PRECIO - 2026"/></a>
+  <br/>
+  <sub>▶️ <b>ARMÉ La Mejor PC Gamer CALIDAD PRECIO — 2026</b> · hacé clic en la imagen para verlo</sub>
+  <br/><br/>
+  <a href="https://www.youtube.com/@ssjesuschavez?sub_confirmation=1"><img src="https://img.shields.io/badge/Suscribite_al_canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suscribite al canal"/></a>
+</p>
+
 ---
 
-<p align="center"><sub>¿Hablamos de datos, energía o docencia? Escribime por LinkedIn.</sub></p>
+<p align="center"><sub>¿Hablamos de datos, energía o docencia? Escribime por LinkedIn o pasate por el canal.</sub></p>
