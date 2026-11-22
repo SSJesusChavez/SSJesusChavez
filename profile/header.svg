@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#1a1510"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#2a2418" stroke-width="1"/>
+    </pattern>
+    <style>
+      .mono { font-family: 'JetBrains Mono','Fira Code',Consolas,monospace; }
+      .sans { font-family: 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif; }
+      .fade { opacity: 0; animation: in .8s ease-out forwards; }
+      .d1 { animation-delay: .1s; } .d2 { animation-delay: .5s; } .d3 { animation-delay: .9s; }
+      @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .glow { animation: pulse 4s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: .3; } 50% { opacity: .55; } }
+    </style>
+  </defs>
+
+  <rect width="900" height="220" rx="16" fill="url(#bg)"/>
+  <rect width="900" height="220" rx="16" fill="url(#grid)" opacity=".6"/>
+  <circle class="glow" cx="790" cy="40" r="120" fill="#F59E0B" opacity=".3" style="filter:blur(40px)"/>
+  <rect x="0" y="214" width="900" height="6" fill="url(#accent)"/>
+
+  <g class="fade d1">
+    <text x="48" y="62" class="mono" font-size="15" fill="#F59E0B">~/jesus-chavez $ whoami</text>
+  </g>
+  <g class="fade d2">
+    <text x="48" y="112" class="sans" font-size="40" font-weight="700" fill="#E6EDF3">Jesús Alberto Chávez</text>
+  </g>
+  <g class="fade d3">
+    <text x="48" y="148" class="sans" font-size="18" fill="#9BA7B4">Análisis de datos · Python · Pandas · Docente de Informática</text>
+    <text x="48" y="178" class="mono" font-size="14" fill="#6B7785">UTN — Facultad Regional San Rafael, Mendoza<tspan class="cursor" fill="#F59E0B"> ▍</tspan></text>
+  </g>
+
+  <g transform="translate(690 70)"><g class="fade d2" font-family="'JetBrains Mono',Consolas,monospace">
+    <rect width="170" height="96" rx="10" fill="#161b22" stroke="#3a3122"/>
+    <circle cx="16" cy="15" r="4" fill="#ff5f56"/><circle cx="30" cy="15" r="4" fill="#ffbd2e"/><circle cx="44" cy="15" r="4" fill="#27c93f"/>
+    <text x="14" y="44" font-size="12" fill="#ff7b72">import</text>
+    <text x="64" y="44" font-size="12" fill="#E6EDF3">pandas as pd</text>
+    <text x="14" y="62" font-size="12" fill="#E6EDF3">foco = [<tspan fill="#a5d6ff">"datos"</tspan>,</text>
+    <text x="70" y="80" font-size="12" fill="#a5d6ff">"energía"<tspan fill="#E6EDF3">]</tspan></text>
+  </g></g>
+</svg>
