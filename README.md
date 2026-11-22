@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/jes%C3%BAs-alberto-ch%C3%A1vez-871659365/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=F59E0B" alt="LinkedIn"/></a>
   <a href="https://github.com/SSJesusChavez/portafolio"><img src="https://img.shields.io/badge/Portafolio-161B22?style=for-the-badge&logo=github&logoColor=F59E0B" alt="Portafolio"/></a>
   <a href="https://www.youtube.com/@ssjesuschavez"><img src="https://img.shields.io/badge/YouTube-161B22?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
+  <a href="mailto:jesus_albertochavez@outlook.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=maildotru&logoColor=F59E0B" alt="Email"/></a>
 </p>
 
 ## 👨‍🏫 Sobre mí
@@ -84,4 +85,4 @@ Me gusta **crear contenido de tecnología**: armado de PCs, unboxings y pruebas 
 
 ---
 
-<p align="center"><sub>¿Hablamos de datos, energía o docencia? Escribime por LinkedIn o pasate por el canal.</sub></p>
+<p align="center"><sub>🎥 ¿Querés colaborar con el canal? Contactame por correo: <a href="mailto:jesus_albertochavez@outlook.com">jesus_albertochavez@outlook.com</a></sub></p>
