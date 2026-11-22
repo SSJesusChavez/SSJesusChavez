@@ -36,8 +36,8 @@
     <text x="48" y="112" class="sans" font-size="40" font-weight="700" fill="#E6EDF3">Jesús Alberto Chávez</text>
   </g>
   <g class="fade d3">
-    <text x="48" y="148" class="sans" font-size="18" fill="#9BA7B4">Análisis de datos · Python · Pandas · Docente de Informática</text>
-    <text x="48" y="178" class="mono" font-size="14" fill="#6B7785">UTN — Facultad Regional San Rafael, Mendoza<tspan class="cursor" fill="#F59E0B"> ▍</tspan></text>
+    <text x="48" y="148" class="sans" font-size="18" fill="#9BA7B4">Docente de Informática · Análisis de datos · Sector energético</text>
+    <text x="48" y="178" class="mono" font-size="14" fill="#6B7785">Compresión de gas · Ariel · PLC — Mendoza<tspan class="cursor" fill="#F59E0B"> ▍</tspan></text>
   </g>
 
   <g transform="translate(690 70)"><g class="fade d2" font-family="'JetBrains Mono',Consolas,monospace">

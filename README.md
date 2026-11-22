@@ -9,13 +9,14 @@
 
 ## 👨‍🏫 Sobre mí
 
-Soy estudiante de cuarto semestre de la **Tecnicatura Universitaria en Programación** (UTN FRSR, cohorte 2025) y **profesor de Informática**: enseño temas como bases de datos. Me enfoco en el análisis de datos con Python y Pandas, y me interesa aplicarlo a la **industria energética**, en particular a **Vaca Muerta**. También me gusta crear contenido de tecnología.
+Actualmente me desempeño como **profesor de Informática de nivel medio**, donde enseño temas como bases de datos, y soy estudiante de la **Tecnicatura Universitaria en Programación** en la UTN FRSR. Mi objetivo es desempeñarme en el **sector energético**, combinando el **análisis de datos** con Python y Pandas con mi experiencia en **compresión de gas**: manejo de equipos compresores **Ariel** y **PLC**. Me interesa especialmente **Vaca Muerta** y también crear contenido de tecnología.
 
 ```yaml
-estudio:    Tec. Univ. en Programación — UTN FRSR · cohorte 2025 · 4to sem.
-docencia:   Profesor de Informática — bases de datos y fundamentos
-datos:      Python · Pandas · limpieza, análisis y visualización
-intereses:  Industria energética (Vaca Muerta) · creación de contenido tech
+docencia:     Profesor de Informática — nivel medio · bases de datos
+estudio:      Tecnicatura Universitaria en Programación — UTN FRSR
+datos:        Python · Pandas · limpieza, análisis y visualización
+industria:    Compresión de gas · compresores Ariel · PLC
+objetivo:     Sector energético (Vaca Muerta) · análisis de datos
 ```
 
 ## 🛠️ Tecnologías
@@ -35,6 +36,10 @@ intereses:  Industria energética (Vaca Muerta) · creación de contenido tech
   <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=E6EDF3" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-161B22?style=flat-square&logo=vscodium&logoColor=007ACC" alt="VS Code"/>
+  <br/>
+  <img src="https://img.shields.io/badge/⚙️_Compresión_de_gas-161B22?style=flat-square" alt="Compresión de gas"/>
+  <img src="https://img.shields.io/badge/🔧_Compresores_Ariel-161B22?style=flat-square" alt="Compresores Ariel"/>
+  <img src="https://img.shields.io/badge/🎛️_PLC-161B22?style=flat-square" alt="PLC"/>
 </p>
 
 ## 📂 Proyectos
